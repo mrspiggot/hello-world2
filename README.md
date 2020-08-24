@@ -1,2 +1,4 @@
 # hello-world2
-Leard GitHub repo
+Learn GitHub repo
+
+I'm loving git...
